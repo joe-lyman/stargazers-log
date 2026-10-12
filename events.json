@@ -1,0 +1,35 @@
+[
+  {
+    "type": "starred",
+    "starredAt": "2025-02-14",
+    "repository": {
+      "name": "awesome-python",
+      "owner": "vinta",
+      "description": "A curated list of awesome Python frameworks, libraries, software and resources.",
+      "url": "https://github.com/vinta/awesome-python",
+      "language": "Python"
+    }
+  },
+  {
+    "type": "starred",
+    "starredAt": "2025-01-28",
+    "repository": {
+      "name": "oh-my-zsh",
+      "owner": "ohmyzsh",
+      "description": "A community-driven framework for managing your zsh configuration.",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "language": "Shell"
+    }
+  },
+  {
+    "type": "starred",
+    "starredAt": "2024-12-09",
+    "repository": {
+      "name": "public-apis",
+      "owner": "public-apis",
+      "description": "A collective list of free APIs for use in software and web development.",
+      "url": "https://github.com/public-apis/public-apis",
+      "language": "Python"
+    }
+  }
+]
